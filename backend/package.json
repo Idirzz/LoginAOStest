@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "gmail-send": "^1.8.10",
+    "hasha": "^5.2.0",
+    "mongoose": "^5.9.4",
+    "nodemon": "^2.0.4",
+    "puppeteer": "^3.3.0",
+    "randomstring": "^1.1.5"
+  }
+}
